@@ -1,7 +1,4 @@
 
-
-package tictak4;
-
 import java.util.*;
 
 public class TicTacToe4 {
