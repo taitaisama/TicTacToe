@@ -4,14 +4,14 @@ package tictak4;
 
 import java.util.*;
 
-public class Main {
+public class TicTacToe4 {
 
     int limit ;
     int depth=0;
     byte [] player1;
     byte [] player2;
     int [][] wincombos;
-    Main (){
+    TicTacToe4 (){
         player1 = new byte[16]; 
         player2 = new byte[16]; 
         for(int i=0;i<16;i++){
@@ -642,7 +642,7 @@ public class Main {
         }
     }*/
     public static void main (String [] args){
-        Main ob = new Main();
+        TicTacToe4 ob = new TicTacToe4();
         byte x[] = {0,0,0,0,
                     0,0,0,0,
                     0,0,0,0,
