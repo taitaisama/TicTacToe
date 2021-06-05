@@ -1,5 +1,4 @@
 
-package tictac6;
 
 import java.util.*;
 public class Tictac6 {
