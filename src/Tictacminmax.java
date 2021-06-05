@@ -1,5 +1,4 @@
 
-package tictacminmax;
 
 import java.util.*;
 
