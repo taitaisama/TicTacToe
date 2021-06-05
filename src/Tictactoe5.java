@@ -1,5 +1,4 @@
 
-package tictactoe5;
 import java.util.*;
 
 public class Tictactoe5 {
